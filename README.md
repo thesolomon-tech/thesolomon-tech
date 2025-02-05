@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi , I'm Solomon, an App Developer and Entrepreneur 👋
 
-<!--
-**thesolomon-tech/thesolomon-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most notable projects:
+- https://Installable.io
+- https://www.widgetcountdown.com/
+- https://www.npmjs.com/package/obsidianmoc
+- https://github.com/thesolomon-tech/focused-web
+- https://github.com/thesolomon-tech/deno_devcontainer
+- https://github.com/thesolomon-tech/simple_ollama_docker_setup
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me:
+- Most familiar with Electron JS, Chrome Extension, Office Extension Development and Docker
+- Open to collaborate on any cool projects!
+- 📫 How to reach me: solomon@thesolomon.tech
