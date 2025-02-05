@@ -1,4 +1,4 @@
-## Hi , I'm Solomon, an App Developer and Entrepreneur 👋
+## I'm Solomon, App Developer and Entrepreneur 👋
 
 Most notable projects:
 - https://Installable.io
