@@ -1,7 +1,6 @@
 ## I'm Solomon, App Developer and Entrepreneur 👋
 
 Most notable projects:
-- https://Installable.io
 - https://www.widgetcountdown.com/
 - https://www.npmjs.com/package/obsidianmoc
 - https://github.com/thesolomon-tech/focused-web
