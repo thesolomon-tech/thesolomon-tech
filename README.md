@@ -1,6 +1,7 @@
 ## I'm Solomon, App Developer and Entrepreneur 👋
 
 Most notable projects:
+- https://www.sortbookmarks.com/
 - https://www.widgetcountdown.com/
 - https://www.npmjs.com/package/obsidianmoc
 - https://github.com/thesolomon-tech/focused-web
